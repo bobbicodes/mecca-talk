@@ -1,6 +1,14 @@
 # mecca-talk
 Script and slides for MECCA history and demo
 
+[Poll the audience to encourage interaction. Assess time constraints and any additional format considerations. Get to know each other a bit, those who feel comfortable sharing:
+
+- Experience with music?
+- Experience with music in Clojure?
+- If not, any significant career changes, or talk about the experience of learning something new.
+
+The theme of the session is the general experience of diving into new fields of study and integrating it with your existing skills to fast-track the learning process and ultimately come to a greater understanding of the world.]
+
 First off, point the audience to *this repo*:
 
 ![repo](images/whoami.png)
